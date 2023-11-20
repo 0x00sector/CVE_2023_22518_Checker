@@ -15,7 +15,8 @@ El script `checker.py` se utiliza para verificar si una instancia específica de
 Para ejecutar el script, usa el siguiente comando en tu terminal:
 
 ## POC
-https://youtu.be/zv2C-2RWOqw
+En este sencillo video puedes ver como ejecutar el script para verificar si tu Confluence es vulnerable.
+
 [![Ver Video](https://img.youtube.com/vi/zv2C-2RWOqw/0.jpg)](https://youtu.be/zv2C-2RWOqw)
 
 
