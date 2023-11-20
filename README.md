@@ -15,7 +15,7 @@ El script `checker.py` se utiliza para verificar si una instancia específica de
 Para ejecutar el script, usa el siguiente comando en tu terminal:
 
 ## POC
-
+https://youtu.be/zv2C-2RWOqw
 [![Ver Video](https://img.youtube.com/vi/zv2C-2RWOqw/0.jpg)](https://youtu.be/zv2C-2RWOqw)
 
 
