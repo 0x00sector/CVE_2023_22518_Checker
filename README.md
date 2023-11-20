@@ -13,14 +13,12 @@ El script `checker.py` se utiliza para verificar si una instancia específica de
 
 ### Ejecución
 Para ejecutar el script, usa el siguiente comando en tu terminal:
-
+![POC](https://youtu.be/zv2C-2RWOqw)
 ```
 python3 checker.py <url_de_tu_instancia_confluence>
 ```
-
 ## ¿Cómo contribuir?
 ¡Toda contribución es bienvenida! Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
-
 1. Haz un fork del repositorio.
 2. Crea una nueva rama para tus cambios.
 3. Haz tus cambios.
